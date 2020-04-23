@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "email": "bill@microsoft.com",
+            "name": "Bill",
+            "password": "123456",
+            "role": "admin"
+        },
+        {
+            "email": "Mark@facebook.com",
+            "name": "Mark",
+            "password": "123456",
+            "role": "admin"
+        },
+        {
+            "email": "Jeff@amazon.com",
+            "name": "Jeff",
+            "password": "123456",
+            "role": "admin"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "Microsoft"
+        },
+        {
+            "id": 2,
+            "name": "Facebook"
+        },
+        {
+            "id": 3,
+            "name": "Amazon"
+        }
+    ]
+}
